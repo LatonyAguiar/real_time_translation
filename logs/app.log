@@ -1,0 +1,69 @@
+2026-01-11 22:26:09,828 | INFO | - SISTEMA DE TRADU��O INICIADO
+2026-01-11 22:26:09,829 | INFO | Translator criado: pt-BR -> en
+2026-01-11 22:26:09,829 | INFO | Translator criado: en-US -> pt
+2026-01-11 22:31:14,433 | INFO | SISTEMA DE TRADUCAO INICIADO
+2026-01-11 22:31:14,434 | INFO | Iniciando tradutor: pt-BR -> en
+2026-01-11 22:31:14,435 | INFO | Iniciando tradutor: en-US -> pt
+2026-01-11 22:31:14,435 | INFO | Sistema ativo. Pressione CTRL+C para sair.
+2026-01-11 22:31:14,435 | INFO | Translator criado: pt-BR -> en
+2026-01-11 22:31:14,437 | INFO | Translator criado: en-US -> pt
+2026-01-11 22:31:14,592 | INFO | Tradutor rodando: pt-BR -> en
+2026-01-11 22:31:14,596 | INFO | Tradutor rodando: en-US -> pt
+2026-01-11 22:31:28,341 | INFO | pt-BR -> en | ORIGINAL: Bom dia. | TRADUZIDO: Good morning.
+2026-01-11 22:31:28,355 | INFO | en-US -> pt | ORIGINAL: Bondia. | TRADUZIDO: Bondia.
+2026-01-11 22:31:53,168 | INFO | en-US -> pt | ORIGINAL: Volunteer. | TRADUZIDO: Voluntarie-se.
+2026-01-11 22:31:53,181 | INFO | pt-BR -> en | ORIGINAL: Bom dia. | TRADUZIDO: Good morning.
+2026-01-11 22:32:06,031 | INFO | pt-BR -> en | ORIGINAL: Não sei o que está acontecendo, mas não. | TRADUZIDO: I don't know what's going on, but no.
+2026-01-11 22:36:43,664 | INFO | Encerrando sistema...
+2026-01-11 22:37:03,990 | INFO | SISTEMA DE TRADUCAO INICIADO
+2026-01-11 22:37:03,995 | INFO | Sistema ativo. Pressione CTRL+C para sair.
+2026-01-11 22:38:57,183 | INFO | Encerrando sistema...
+2026-01-11 22:39:01,279 | INFO | SISTEMA DE TRADUCAO INICIADO
+2026-01-11 22:39:01,303 | INFO | Sistema ativo. Pressione CTRL+C para sair.
+2026-01-11 22:39:01,305 | INFO | Translator criado: en-US -> pt
+2026-01-11 22:39:01,305 | INFO | Translator criado: pt-BR -> en
+2026-01-11 22:39:01,461 | INFO | TTS criado para idioma: pt
+2026-01-11 22:39:01,466 | INFO | TTS criado para idioma: en
+2026-01-11 22:39:01,467 | INFO | Tradutor rodando: en-US -> pt
+2026-01-11 22:39:01,467 | INFO | Tradutor rodando: pt-BR -> en
+2026-01-11 22:39:14,302 | INFO | pt-BR -> en | ORIGINAL: Bom dia. | TRADUZIDO: Good morning.
+2026-01-11 22:39:14,378 | INFO | en-US -> pt | ORIGINAL: Bong Deer. | TRADUZIDO: Cervo Bong.
+2026-01-11 22:39:23,513 | INFO | pt-BR -> en | ORIGINAL: Bom dia. | TRADUZIDO: Good morning.
+2026-01-11 22:39:23,781 | INFO | en-US -> pt | ORIGINAL: Bong dear. | TRADUZIDO: Bong querido.
+2026-01-11 22:39:59,015 | INFO | pt-BR -> en | ORIGINAL: How are you? | TRADUZIDO: How are you?
+2026-01-11 22:39:59,300 | INFO | en-US -> pt | ORIGINAL: How are you? | TRADUZIDO: Como está?
+2026-01-11 22:43:13,462 | INFO | Encerrando sistema...
+2026-01-11 22:46:28,939 | INFO | SISTEMA DE TRADUCAO INICIADO
+2026-01-11 22:46:28,942 | INFO | Sistema ativo. Pressione CTRL+C para sair.
+2026-01-11 22:46:28,942 | INFO | Translator criado: pt-BR -> en
+2026-01-11 22:46:28,942 | INFO | Translator criado: en-US -> pt
+2026-01-11 22:52:15,503 | INFO | Encerrando sistema...
+2026-01-11 22:52:19,053 | INFO | SISTEMA DE TRADUCAO INICIADO
+2026-01-11 22:52:19,057 | INFO | Sistema ativo. Pressione CTRL+C para sair.
+2026-01-11 22:52:19,057 | INFO | Translator criado: en-US -> pt
+2026-01-11 22:52:19,057 | INFO | Translator criado: pt-BR -> en
+2026-01-11 22:54:30,670 | INFO | Encerrando sistema...
+2026-01-11 23:02:20,005 | INFO | SISTEMA DE TRADUCAO INICIADO
+2026-01-11 23:02:20,007 | INFO | Sistema ativo. Pressione CTRL+C para sair.
+2026-01-11 23:02:20,008 | INFO | Translator criado: pt-BR -> en
+2026-01-11 23:02:20,008 | INFO | Translator criado: en-US -> pt
+2026-01-11 23:04:34,008 | INFO | Encerrando sistema...
+2026-01-11 23:04:36,935 | INFO | SISTEMA DE TRADUCAO INICIADO
+2026-01-11 23:04:36,939 | INFO | Sistema ativo. Pressione CTRL+C para sair.
+2026-01-11 23:04:36,939 | INFO | Translator criado: pt-BR -> en
+2026-01-11 23:04:36,940 | INFO | Translator criado: en-US -> pt
+2026-01-11 23:04:37,088 | INFO | TTS criado para idioma: pt
+2026-01-11 23:04:37,093 | INFO | TTS criado para idioma: en
+2026-01-11 23:04:37,095 | INFO | Tradutor rodando: en-US -> pt
+2026-01-11 23:04:37,096 | INFO | Tradutor rodando: pt-BR -> en
+2026-01-11 23:04:59,149 | INFO | pt-BR -> en | ORIGINAL: Bom dia. | TRADUZIDO: Good morning.
+2026-01-11 23:04:59,230 | INFO | en-US -> pt | ORIGINAL: Bong Dia. | TRADUZIDO: Bong Dia.
+2026-01-11 23:05:18,039 | INFO | pt-BR -> en | ORIGINAL: Bom dia. | TRADUZIDO: Good morning.
+2026-01-11 23:13:08,048 | INFO | Encerrando sistema...
+2026-01-11 23:13:11,528 | INFO | SISTEMA DE TRADUCAO INICIADO
+2026-01-11 23:13:11,530 | INFO | Sistema ativo. Pressione CTRL+C para sair.
+2026-01-11 23:13:11,532 | INFO | Translator criado: en-US -> pt-BR
+2026-01-11 23:13:11,532 | INFO | Translator criado: pt-BR -> en-US
+2026-01-11 23:13:11,680 | INFO | Tradutor rodando: en-US -> pt-BR
+2026-01-11 23:13:11,689 | INFO | Tradutor rodando: pt-BR -> en-US
+2026-01-11 23:22:11,192 | INFO | Encerrando sistema...
