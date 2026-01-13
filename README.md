@@ -211,9 +211,6 @@ Uma entrevista de 1h custa menos que um café.
 * Gravação da call
 * Troca dinâmica de idioma
 
-## ⚠️ Aviso Legal
-
-Você não está trapaceando. Você está usando uma ferramenta de acessibilidade linguística, assim como legendas automáticas.
 
 ## 🧠 Conclusão
 
@@ -227,11 +224,3 @@ Se quiser:
 * ou deixar invisível nível ninja
 
 👉 só falar.
-
-
-# Se quiser próximos passos:
-🔥 Melhorar latência
-🎧 Trocar voz por mais natural
-🧠 Pipeline híbrido Azure + DeepL
-🖥 Interface gráfica simples
-🧪 Script de teste de custo por call
